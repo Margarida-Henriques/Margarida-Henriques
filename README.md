@@ -1,11 +1,11 @@
 
 ### Hi, I'm Margarida!
 
-💻 I'm a front-end developer with a passion for creativity and always eager to learn and explore new ideas.
+I'm a front-end developer with a passion for creativity and always eager to learn and explore new ideas.
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
