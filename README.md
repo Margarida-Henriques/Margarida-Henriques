@@ -1,8 +1,7 @@
 
 ### Hi, I'm Margarida!
 
-
-- 💻 Front End Developer
+💻 I'm a front-end developer with a passion for creativity and always eager to learn and explore new ideas.
 
 ---
 
