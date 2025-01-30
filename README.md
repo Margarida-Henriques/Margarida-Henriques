@@ -1,5 +1,5 @@
 
-### Hi, I'm Margarida! ![ezgif-38b5cbaa353af](https://github.com/user-attachments/assets/baebd6e1-2e49-42f3-bd10-5d7e08be1eaa)
+### Hi, I'm Margarida! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 
 I'm a front-end developer with a passion for creative thinking and always eager to learn and explore new ideas.
