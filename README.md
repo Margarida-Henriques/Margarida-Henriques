@@ -1,5 +1,5 @@
 
-### Hi, I'm Margarida! ![512](https://github.com/user-attachments/assets/f218cd2a-5a8a-4f68-9b2f-fded0c0e1143)
+### Hi, I'm Margarida! ![ezgif-38b5cbaa353af](https://github.com/user-attachments/assets/baebd6e1-2e49-42f3-bd10-5d7e08be1eaa)
 
 
 I'm a front-end developer with a passion for creative thinking and always eager to learn and explore new ideas.
