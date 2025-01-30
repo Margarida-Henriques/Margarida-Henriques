@@ -1,7 +1,8 @@
 
-### Hi, I'm Margarida!
+### Hi, I'm Margarida! [![image](https://github.com/user-attachments/assets/41902ade-680f-4dbb-ae72-07367a814df8)](https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/lottie.json)
 
-I'm a front-end developer with a passion for creativity and always eager to learn and explore new ideas.
+
+I'm a front-end developer with a passion for creative thinking and always eager to learn and explore new ideas.
 
 ---
 
