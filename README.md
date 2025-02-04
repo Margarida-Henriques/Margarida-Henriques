@@ -4,14 +4,7 @@
 💻 **Front-End Developer**, driven by creativity to build impactful designs and always exploring new skills and technologies.</br>
 🎓 Graduated from [Madeira University](https://www.uma.pt), with a strong foundation in various programming languages and development techniques.
 
-
-When I'm not coding, you can find me </br>
- &nbsp;&nbsp; • 🎮playing Stardew Valley </br>
- &nbsp;&nbsp; • 💪 hitting the gym </br>
- &nbsp;&nbsp; • 📚 Getting lost in a good book</br>
-
-
-# Languages and Tools 🛠️
+## Languages and Tools 🛠️
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,7 +21,17 @@ When I'm not coding, you can find me </br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<br />
+
+## About me ❤️
+
+<img align='left' style="margin-right: 200px;"  src='https://www.pngkey.com/png/full/219-2197908_pixilart-stardew-valley-chicken-logo.png' width='100' >
+
+When I'm not coding, you can find me: </br>
+ &nbsp;&nbsp; • 🎮 Playing Stardew Valley </br>
+ &nbsp;&nbsp; • 💪 Hitting the gym </br>
+ &nbsp;&nbsp; • 📚 Getting lost in a good book</br>
+
+
 
 
 
