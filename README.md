@@ -2,12 +2,16 @@
 # Hi, I'm Margarida! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 💻 **Front-End Developer**, driven by creativity to build impactful designs and always exploring new skills and technologies.</br>
-🎓 Graduated from [Madeira University](https://www.uma.pt), where I gained a solid foundation in diverse programming languages and development techniques.
-
-🌟When I'm not coding, you can find me playing Stardew Valley 🎮, hitting the gym 💪, or getting lost in a good book 📚.
+🎓 Graduated from [Madeira University](https://www.uma.pt), with a strong foundation in various programming languages and development techniques.
 
 
-### Languages and Tools 🛠️
+When I'm not coding, you can find me </br>
+ &nbsp;&nbsp; 🎮playing Stardew Valley </br>
+ &nbsp;&nbsp; 💪 hitting the gym </br>
+ &nbsp;&nbsp; 📚 Getting lost in a good book</br>
+
+
+# Languages and Tools 🛠️
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
