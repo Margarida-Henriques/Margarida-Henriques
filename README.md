@@ -6,9 +6,9 @@
 
 
 When I'm not coding, you can find me </br>
- &nbsp;&nbsp; 🎮playing Stardew Valley </br>
- &nbsp;&nbsp; 💪 hitting the gym </br>
- &nbsp;&nbsp; 📚 Getting lost in a good book</br>
+ &nbsp;&nbsp; • 🎮playing Stardew Valley </br>
+ &nbsp;&nbsp; • 💪 hitting the gym </br>
+ &nbsp;&nbsp; • 📚 Getting lost in a good book</br>
 
 
 # Languages and Tools 🛠️
