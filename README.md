@@ -24,7 +24,7 @@
 
 ## About me ❤️
 
-<img align='left' style="margin-right: 200px;"  src='https://www.pngkey.com/png/full/219-2197908_pixilart-stardew-valley-chicken-logo.png' width='100' >
+<img align='left'  src='https://www.pngkey.com/png/full/219-2197908_pixilart-stardew-valley-chicken-logo.png' width='90' >
 
 When I'm not coding, you can find me: </br>
  &nbsp;&nbsp; • 🎮 Playing Stardew Valley </br>
