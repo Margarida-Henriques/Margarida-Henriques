@@ -4,6 +4,8 @@
 💻 **Front-End Developer**, driven by creativity to build impactful designs and always exploring new skills and technologies.</br>
 🎓 Graduated from [Madeira University](https://www.uma.pt), with a strong foundation in various programming languages and development techniques.
 
+</br>
+
 ## Languages and Tools 🛠️
 
 
@@ -21,6 +23,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+</br>
 
 ## About me ❤️
 
@@ -31,7 +34,9 @@ When I'm not coding, you can find me: </br>
  &nbsp;&nbsp; • 💪 Hitting the gym </br>
  &nbsp;&nbsp; • 📚 Getting lost in a good book</br>
 
+</br>
 
+## Projects 📂↴
 
 
 
