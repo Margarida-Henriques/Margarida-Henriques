@@ -36,8 +36,6 @@ When I'm not coding, you can find me: </br>
 
 </br>
 
-## Projects 📂↴
-
 
 
 
