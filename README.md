@@ -27,15 +27,11 @@
 
 ## Projects 📁
 
-<img src="https://github.com/user-attachments/assets/c6a3063a-8b82-4684-8da9-a3a9265b5d10" width="300" align='right' />
-<p>Check out my recent project
-where you can see me apply the skills above!</br>
+<img src="https://github.com/user-attachments/assets/f5d7a339-e9a2-4a77-8c88-57f00090ae02" width="300" align="right" />
 
-</br>
+Check out my recent project **The FNAC Website Redesign** </br>
+where you can see me apply the skills above!
 
-**The FNAC Website Redesign** focuses on modernizing the site, improving its design, user experience, and functionality to
-make it more intuitive, responsive, and visually appealing for better customer interaction.
-</p>
 
 
 
