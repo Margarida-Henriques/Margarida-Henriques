@@ -23,6 +23,19 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+</br>
+
+## Projects 📁
+
+<img src="https://github.com/user-attachments/assets/c6a3063a-8b82-4684-8da9-a3a9265b5d10" width="300" align='right' />
+<p>Check out my recent project
+where you can see me apply the skills above!</br>
+
+</br>
+
+**The FNAC Website Redesign** focuses on modernizing the site, improving its design, user experience, and functionality to
+make it more intuitive, responsive, and visually appealing for better customer interaction.
+</p>
 
 
 
