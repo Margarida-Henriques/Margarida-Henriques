@@ -1,7 +1,7 @@
 
 # Hi, I'm Margarida! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-💻 **Front-End Developer**, driven by creativity to build impactful designs and always exploring new skills and technologies.</br>
+💻 **Full-Stack Developer**, driven by creativity to build impactful designs and always exploring new skills and technologies.</br>
 🎓 Graduated from [Madeira University](https://www.uma.pt), with a strong foundation in various programming languages and development techniques.
 
 </br>
